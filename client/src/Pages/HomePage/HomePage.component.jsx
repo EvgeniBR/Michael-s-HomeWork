@@ -12,7 +12,7 @@ const HomePage = () => {
 
   const getPosts = async () =>{
     const data = await axios
-        .get("http://localhost:8000/api/posts")
+        .get("https://michaels-homework.herokuapp.com/api/posts")
         setPosts(data.data)
   }
   useEffect(() => {

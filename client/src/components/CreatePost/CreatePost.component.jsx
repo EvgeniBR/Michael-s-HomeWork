@@ -23,7 +23,7 @@ const CreatePost = ({updatePosts}) => {
     event.preventDefault();
     try {
       await axios
-        .post("http://localhost:8000/api/posts", currentState)
+        .post("https://michaels-homework.herokuapp.com/api/posts", currentState)
         .then((res) => {
           setCurrentState({
             email: "",
