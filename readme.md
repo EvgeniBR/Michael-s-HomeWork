@@ -1,7 +1,7 @@
-# express and react boilerplate!
+# Post submiting app!
 
-## after cloning the project type in the console:
+## Wtite a valid email in the email input and your message
 
-### •npm install
+## click submit 
 
-### •npm run client-install
+## now you can see your post in the feed with a unique avatar just for your email
