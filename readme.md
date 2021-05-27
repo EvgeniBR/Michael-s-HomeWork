@@ -1,6 +1,6 @@
 # Post submiting app!
 
-## Wtite a valid email in the email input and your message
+## Write a valid email in the email input and your message
 
 ## click submit 
 
