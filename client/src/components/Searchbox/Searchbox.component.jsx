@@ -7,7 +7,7 @@ const Searchbox = ({placeholder ,handleChange }) => {
     <input
       className="search"
       type="search"
-      placeholder={`🏸${placeholder}`}
+      placeholder={`🔎${placeholder}`}
       onChange={handleChange}
     />
     </>
