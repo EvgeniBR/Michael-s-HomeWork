@@ -1,0 +1,25 @@
+.post-container{
+    width: 95vw;
+    display:flex;
+    padding: 15px;
+    margin: 15px;
+
+    .post-img{
+        width: 150px;
+    }
+
+    .post-data{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .email{
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .message{
+            font-size: 1.2rem;
+        }
+    }
+}
